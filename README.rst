@@ -7,6 +7,7 @@ Requirements
 ------------
 
 * install `ifuse <http://www.libimobiledevice.org>`_ on your computer
+* install `exiftool`
 * install python libraries:
     hashlib
     shutil
