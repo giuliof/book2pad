@@ -22,6 +22,8 @@ Requirements
 
     pip install hashlib shutil argparse traceback pyexifinfo zipfile biplist binaryornot
 
+* patch biplist: edit `biplist/__init__.py` and delete lines 154-155
+
 Usage
 -----
 
